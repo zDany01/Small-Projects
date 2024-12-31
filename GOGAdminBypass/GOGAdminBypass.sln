@@ -1,0 +1,31 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.7.34009.444
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "GOGAdminBypass", "GOGAdminBypass.csproj", "{9D432129-6B1A-4017-A76C-23C2DA144D74}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Debug|x64 = Debug|x64
+		Release|Any CPU = Release|Any CPU
+		Release|x64 = Release|x64
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{9D432129-6B1A-4017-A76C-23C2DA144D74}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{9D432129-6B1A-4017-A76C-23C2DA144D74}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{9D432129-6B1A-4017-A76C-23C2DA144D74}.Debug|x64.ActiveCfg = Debug|x64
+		{9D432129-6B1A-4017-A76C-23C2DA144D74}.Debug|x64.Build.0 = Debug|x64
+		{9D432129-6B1A-4017-A76C-23C2DA144D74}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{9D432129-6B1A-4017-A76C-23C2DA144D74}.Release|Any CPU.Build.0 = Release|Any CPU
+		{9D432129-6B1A-4017-A76C-23C2DA144D74}.Release|x64.ActiveCfg = Release|x64
+		{9D432129-6B1A-4017-A76C-23C2DA144D74}.Release|x64.Build.0 = Release|x64
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {EAD2A000-1401-48B4-A14F-B2A62F5826F1}
+	EndGlobalSection
+EndGlobal
